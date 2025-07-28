@@ -1,0 +1,10 @@
+Pillow
+glob
+imageio
+matplotlib
+numpy
+opencv-python
+os
+pandas
+scikit-learn
+tensorflow
